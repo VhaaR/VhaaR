@@ -1,6 +1,6 @@
 ### Willkommen bei VhaaR! 👋
 
-![Birgitt Winkt](https://github.com/VhaaR/VhaaR/blob/main/Birgittwinkt.gif)
+![Birgitt Winkt](https://github.com/VhaaR/VhaaR/blob/main/BirgittWinkt.gif)
 
 <!-- Kommentar -->
 
@@ -23,3 +23,7 @@ Die Datei befindet sich auf Dropbox, da die mehreren Gigabyte an Unity-Projekt l
 ![VhaaR 0.0.1 Entwicklungsumgebung] (https://www.dropbox.com/scl/fi/9byr9uoslbybd11hrh7hu/VhaaR_001.unitypackage?rlkey=izwgmvqolalg71grqaoj7y1jx&dl=0)
 
 Credits gehen an das sehr coole Projekt [GameTTS](https://github.com/lexkoro/GameTTS). Bitte bei einer Weiterentwicklung von VhaaR darauf achten, dass bei Sounddateien erstellt mit GameTTS ein entsprechender Credit erfolgt. 
+
+Einen großen Dank geht an die HWK für Oberfranken für das gemeinsame Projekt!
+
+![HWK Logo](https://www.wiesentbote.de/wb/wp-content/uploads/2020/08/logo-hwk-oberfranl.gif)
